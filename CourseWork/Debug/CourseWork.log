@@ -1,0 +1,8 @@
+﻿  Line.cpp
+d:\projects\visualstudio\course\coursework\coursework\constants.h(7): warning C4305: инициализация: усечение из "double" в "float"
+d:\projects\visualstudio\course\coursework\coursework\line.cpp(47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\projects\visualstudio\course\coursework\coursework\line.cpp(65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\projects\visualstudio\course\coursework\coursework\line.cpp(82): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\projects\visualstudio\course\coursework\coursework\line.cpp(92): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\projects\visualstudio\course\coursework\coursework\line.cpp(95): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  CourseWork.vcxproj -> D:\Projects\VisualStudio\course\CourseWork\Debug\CourseWork.exe
